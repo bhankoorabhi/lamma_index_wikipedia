@@ -9,4 +9,4 @@ requests
 beautifulsoup4
 llama-index-llms-langchain
 sentence-transformers
-llma_index-embeddibgs-huggingfae
+llama_index-embeddings-huggingface
